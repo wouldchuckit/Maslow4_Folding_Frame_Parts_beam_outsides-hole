@@ -63,8 +63,7 @@
         },
         {
           "name": "y",
-          "ioValue": 4,
-          "currentEquation": "4"
+          "ioValue": 4
         }
       ],
       "currentEquation": "x*y"
@@ -127,7 +126,7 @@
         },
         {
           "name": "zDist",
-          "ioValue": -14.625
+          "ioValue": -29.25
         }
       ]
     },
@@ -144,7 +143,7 @@
         },
         {
           "name": "y",
-          "ioValue": 0.75
+          "ioValue": 1.5
         }
       ],
       "currentEquation": "-x*y"
