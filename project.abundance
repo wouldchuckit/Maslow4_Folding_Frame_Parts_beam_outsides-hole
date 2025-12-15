@@ -81,7 +81,7 @@
         },
         {
           "name": "y",
-          "ioValue": 2
+          "ioValue": 4
         }
       ],
       "currentEquation": "x / y"
@@ -94,7 +94,7 @@
       "ioValues": [
         {
           "name": "diameter",
-          "ioValue": 101.5
+          "ioValue": 50.75
         }
       ]
     },
@@ -126,7 +126,7 @@
         },
         {
           "name": "zDist",
-          "ioValue": -9.75
+          "ioValue": -14.625
         }
       ]
     },
@@ -135,7 +135,7 @@
       "x": 0.1796116504854369,
       "y": 0.3302540415704388,
       "uniqueID": "id-114",
-      "name": "-x /y",
+      "name": "-x*y",
       "ioValues": [
         {
           "name": "x",
@@ -143,10 +143,11 @@
         },
         {
           "name": "y",
-          "ioValue": 2
+          "ioValue": 0.75,
+          "currentEquation": "0.75"
         }
       ],
-      "currentEquation": "-x /y"
+      "currentEquation": "-x*y"
     },
     {
       "atomType": "Color",
