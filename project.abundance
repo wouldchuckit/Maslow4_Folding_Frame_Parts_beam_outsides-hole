@@ -63,7 +63,8 @@
         },
         {
           "name": "y",
-          "ioValue": 2
+          "ioValue": 4,
+          "currentEquation": "4"
         }
       ],
       "currentEquation": "x*y"
@@ -81,7 +82,7 @@
         },
         {
           "name": "y",
-          "ioValue": 4
+          "ioValue": 2
         }
       ],
       "currentEquation": "x / y"
@@ -94,7 +95,7 @@
       "ioValues": [
         {
           "name": "diameter",
-          "ioValue": 50.75
+          "ioValue": 101.5
         }
       ]
     },
@@ -106,7 +107,7 @@
       "ioValues": [
         {
           "name": "height",
-          "ioValue": 39
+          "ioValue": 78
         }
       ]
     },
@@ -143,8 +144,7 @@
         },
         {
           "name": "y",
-          "ioValue": 0.75,
-          "currentEquation": "0.75"
+          "ioValue": 0.75
         }
       ],
       "currentEquation": "-x*y"
