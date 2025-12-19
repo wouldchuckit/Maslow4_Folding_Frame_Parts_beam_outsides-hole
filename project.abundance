@@ -6,15 +6,11 @@
   "name": "Maslow4_Folding_Frame_Parts_beam_outsides-hole",
   "ioValues": [
     {
-      "name": "Input_1",
+      "name": "WoodThick",
       "ioValue": 19.5
     },
     {
-      "name": "Input_2",
-      "ioValue": 2438
-    },
-    {
-      "name": "Input_3",
+      "name": "BeamWidth",
       "ioValue": 203
     }
   ],
@@ -31,15 +27,7 @@
       "x": 0.01815,
       "y": 0.10999999999999999,
       "uniqueID": "id-19",
-      "name": "Input_1",
-      "type": "number"
-    },
-    {
-      "atomType": "Input",
-      "x": 0.01815,
-      "y": 0.176,
-      "uniqueID": "id-21",
-      "name": "Input_2",
+      "name": "WoodThick",
       "type": "number"
     },
     {
@@ -47,7 +35,7 @@
       "x": 0.01815,
       "y": 0.242,
       "uniqueID": "id-34",
-      "name": "Input_3",
+      "name": "BeamWidth",
       "type": "number"
     },
     {
